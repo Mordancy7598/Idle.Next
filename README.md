@@ -27,8 +27,8 @@ Technical Milestones:
 - [ ] Encrypt messages between services
 
 Secondary objectives:
--v2 Name
--Refine game elements and content
--Advertise game to others for feedback
--API documentation
--Installers to streamline VM setup
+- v2 Name
+- Refine game elements and content
+- Advertise game to others for feedback
+- API documentation
+- Installers to streamline VM setup
